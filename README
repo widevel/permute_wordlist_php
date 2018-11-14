@@ -9,6 +9,3 @@ It supports unicode substitutions if you're going to crazytown.
 To run:
 
 php permute_wordlist.php
-
-See the examples directory for an example input file (bare_wordlist.example) and
-output file (permuted_wordlist.example). Output can get pretty sizable.
